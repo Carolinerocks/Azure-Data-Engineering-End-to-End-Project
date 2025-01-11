@@ -1,6 +1,6 @@
 # Azure Data Engineering End to End Project
 
-This repository showcases an end-to-end data engineering pipeline using powerful Azure technologies. The project demonstrates how to build robust data pipelines, process and transform big data, and generate meaningful reports.
+This repository showcases an end-to-end data engineering pipeline using powerful Azure technologies. The project demonstrates how to build robust data pipelines, process and transform Adventure Works' sales data, and generate meaningful reports.
 
 ![Project Logo](Images/Data_Pipeline_Workflow.jpg)
 
